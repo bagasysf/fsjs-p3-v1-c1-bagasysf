@@ -4,6 +4,9 @@
 - Tema Aplikasi: News Portal (Reference: https://rumasyho.com)
 - CSS Framework: Tailwind CSS
 
+## Result
+
+
 Struktur Folder:
 
 - server (PORT: 3000)
@@ -18,7 +21,7 @@ Target:
 - [x] React: Class Component vs Function Component
 - [x] Mempelajari State menggunakan useState
 - [x] Mengirim Props baik berupa sebuah state atau function
-- [ ] Event Handling (onClick, onChange, onSubmit)
+- [x] Event Handling (onClick, onChange, onSubmit)
 - [x] Conditional Rendering di dalam React
 - [x] Looping List of Data di dalam React
 - [x] Lifecycle component menggunakan useEffect
@@ -43,9 +46,9 @@ Target:
 - [x] Lecture - Custom Hooks
 - [x] Rules of Hooks
 - [x] Lecture - React-Router
-- [ ] Membuat router user-side (min: home, detail)
+- [x] Membuat router user-side (min: home, detail)
 - [x] Membuat router admin-side (min: login, add admin, CRUD main entitas, CRUD another entitas)
-- [ ] Membuat privateRoute untuk admin
+- [x] Membuat privateRoute untuk admin
 
 **Report:**
 
@@ -55,15 +58,15 @@ Hari ini saya belajar menggunakan state, mengirim sebuah props, conditional rend
 
 Target:
 
-- [ ] Lecture - Redux
-- [ ] State vs Global State
-- [ ] Bagaimana cara membuat Store
-- [ ] Bagaimana cara membuat Reducer
-- [ ] Bagaimana cara membuat Action
-- [ ] Membuat Action Creators
-- [ ] Membuat Action Types
-- [ ] Lecture - Redux-thunk (handle async)
-- [ ] Cara menggunakan combineReducers
+- [x] Lecture - Redux
+- [x] State vs Global State
+- [x] Bagaimana cara membuat Store
+- [x] Bagaimana cara membuat Reducer
+- [x] Bagaimana cara membuat Action
+- [x] Membuat Action Creators
+- [x] Membuat Action Types
+- [x] Lecture - Redux-thunk (handle async)
+- [x] Cara menggunakan combineReducers
 
 **Report:**
 
@@ -73,11 +76,11 @@ Target:
 
 Target:
 
-- [ ] Lecture - SQL Advance DQL
-- [ ] Membuat server mengguanakan express.js, postgreSQL dan Sequelize
-- [ ] Menentukan associations antar tables
-- [ ] Lecture - SQL Transaction
-- [ ] Membuat transaction saat membuat entitas baru pada main table. Pastikan ada assosiasi di dalamnya
+- [x] Lecture - SQL Advance DQL
+- [x] Membuat server mengguanakan express.js, postgreSQL dan Sequelize
+- [x] Menentukan associations antar tables
+- [x] Lecture - SQL Transaction
+- [x] Membuat transaction saat membuat entitas baru pada main table. Pastikan ada assosiasi di dalamnya
 
 **Report:**
 
@@ -87,8 +90,8 @@ Target:
 
 Target:
 
-- [ ] LC Simulation
-- [ ] Practice, Practice, Practice
+- [x] LC Simulation
+- [x] Practice, Practice, Practice
 
 **Report:**
 
