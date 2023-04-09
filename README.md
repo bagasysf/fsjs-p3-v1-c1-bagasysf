@@ -15,6 +15,7 @@ Admin Side (CMS):
 ![alt text](./screenshoots/add-article.png)
 
 Client Side:
+
 ![alt text](./screenshoots/home-part1.png)
 ![alt text](./screenshoots/home-part2.png)
 ![alt text](./screenshoots/home-part3.png)
