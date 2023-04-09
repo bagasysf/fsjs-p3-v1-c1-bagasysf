@@ -7,10 +7,18 @@
 
 ## Result
 
-![alt text](./dashboard.png)
-![alt text](./category.png)
-![alt text](./register.png)
-![alt text](./add-article.png)
+Admin Side (CMS):
+
+![alt text](./screenshoots/dashboard.png)
+![alt text](./screenshoots/category.png)
+![alt text](./screenshoots/register.png)
+![alt text](./screenshoots/add-article.png)
+
+Client Side:
+![alt text](./screenshoots/home-part1.png)
+![alt text](./screenshoots/home-part2.png)
+![alt text](./screenshoots/home-part3.png)
+![alt text](./screenshoots/detail-page.png)
 
 Struktur Folder:
 
